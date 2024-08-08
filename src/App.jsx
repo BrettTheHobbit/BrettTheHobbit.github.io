@@ -9,6 +9,9 @@ const App = () => {
     <>
       <h1>Testing Function</h1>
       <Header/>
+        <div style={{ height: '200vh' }}>
+          <p>Body Text</p>
+        </div>
       <Footer/>
     </>
   )

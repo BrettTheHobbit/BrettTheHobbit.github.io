@@ -1,10 +1,11 @@
-.header {
+.Header {
     position: sticky;
     top: 0;
-    background-color: white;
+    background-color: #a4a8d1;
     z-index: 1000; 
     width: 100%;
     border-bottom: 1px solid #ccc; 
     padding: 10px; 
     box-shadow: 0 2px 4px rgba(0,0,0,0.1); 
+    text-align: center;
 }

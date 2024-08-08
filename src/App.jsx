@@ -1,10 +1,16 @@
-import ButtonGradient from './assets/svg/ButtonGradient';
-import Button from "./components/Button";
+//import ButtonGradient from './assets/svg/ButtonGradient';
+//import Button from "./components/Button";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
 
 const App = () => {
 
-  return (
-    <h1>Testing Function</h1>
+  return (//only displays bottom most element???????
+    <>
+      <h1>Testing Function</h1>
+      <Header/>
+      <Footer/>
+    </>
   )
   
 }

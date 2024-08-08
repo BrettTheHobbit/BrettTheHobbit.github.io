@@ -1,11 +1,9 @@
 import React from 'react'
-//import {  logo  } from "../assets";
-import { brainwave } from "../assets";
 
-/*const Header = () => {
+const Header = () => {
   return (
-
+    <h1>This is the header:  About Me   Portfolio   Contact Me</h1>
   )
-}*/
+}
 
-//export default Header
+export default Header

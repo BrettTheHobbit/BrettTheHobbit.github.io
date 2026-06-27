@@ -3,7 +3,7 @@ const Hero = () => {
     <section className="flex flex-col items-center justify-center min-h-screen text-center px-6">
       <p className="text-sm uppercase tracking-widest text-gray-400 mb-3">Hi, I'm</p>
       <h1 className="text-5xl font-medium text-white mb-4">Brett Hobbs</h1>
-      <p className="text-xl text-gray-400 mb-4">TITLE</p>
+      <p className="text-xl text-gray-400 mb-4">Computer Science Graduate</p>
       <p className="text-gray-400 max-w-md mb-8">
         DESCRIBER
       </p>

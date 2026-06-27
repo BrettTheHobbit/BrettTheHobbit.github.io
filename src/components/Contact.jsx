@@ -6,9 +6,9 @@ const Contact = () => {
         Whether you want to discuss an opportunity, collaborate on a project, or just say hi — feel free to reach out.
       </p>
       <div className="flex gap-6">
-        <a href="mailto:your@email.com" className="text-white underline">Email</a>
+        <a href="bretthhobbs@gmail.com:your@email.com" className="text-white underline">Email</a>
         <a href="https://github.com/BrettTheHobbit" target="_blank" rel="noreferrer" className="text-white underline">GitHub</a>
-        <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noreferrer" className="text-white underline">LinkedIn</a>
+        <a href="https://linkedin.com/in/BrettHHobbs" target="_blank" rel="noreferrer" className="text-white underline">LinkedIn</a>
       </div>
     </section>
   )
